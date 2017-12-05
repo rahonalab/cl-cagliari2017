@@ -1,0 +1,9 @@
+
+"give" [pos="NN"] [pos="DT"] [pos="NN"]	356
+"bring" [pos="NN"] [pos="DT"] [pos="NN"] 1?
+"tell" [pos="NN"] [pos="DT"] [pos="NN"] 16
+"play" [pos="NN"] [pos="DT"] [pos="NN"] 0
+"give" [pos="DT"] [pos="NN"] "to" [pos="NN"]	34
+"bring" [pos="DT"] [pos="NN"] "to" [pos="NN"]	54
+"tell" [pos="DT"] [pos="NN"] "to" [pos="NN"]	4
+"play" [pos="DT"] [pos="NN"] "to" [pos="NN"]	1

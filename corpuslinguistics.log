@@ -1,0 +1,843 @@
+This is pdfTeX, Version 3.14159265-2.6-1.40.18 (TeX Live 2017) (preloaded format=latex 2017.10.17)  4 DEC 2017 16:00
+entering extended mode
+ restricted \write18 enabled.
+ %&-line parsing enabled.
+**corpuslinguistics.tex
+(./corpuslinguistics.tex
+LaTeX2e <2017-04-15>
+Babel <3.10> and hyphenation patterns for 84 language(s) loaded.
+(/usr/local/texlive/2017/texmf-dist/tex/latex/prosper/prosper.cls
+Document Class: prosper 2001/07/17, v. 1.5
+(c) 2000-2001 Frederic Goualard, EPFL, Switzerland
+ and Peter Møller Neergaard, Boston Univ., USA
+CVSId: $Id: prosper.cls,v 1.24 2002/11/25 14:35:50 exupery Exp $
+(/usr/local/texlive/2017/texmf-dist/tex/latex/graphics/graphicx.sty
+Package: graphicx 2014/10/28 v1.0g Enhanced LaTeX Graphics (DPC,SPQR)
+
+(/usr/local/texlive/2017/texmf-dist/tex/latex/graphics/keyval.sty
+Package: keyval 2014/10/28 v1.15 key=value parser (DPC)
+\KV@toks@=\toks14
+)
+(/usr/local/texlive/2017/texmf-dist/tex/latex/graphics/graphics.sty
+Package: graphics 2017/04/14 v1.1b Standard LaTeX Graphics (DPC,SPQR)
+
+(/usr/local/texlive/2017/texmf-dist/tex/latex/graphics/trig.sty
+Package: trig 2016/01/03 v1.10 sin cos tan (DPC)
+)
+(/usr/local/texlive/2017/texmf-dist/tex/latex/graphics-cfg/graphics.cfg
+File: graphics.cfg 2016/06/04 v1.11 sample graphics configuration
+)
+Package graphics Info: Driver file: dvips.def on input line 99.
+
+(/usr/local/texlive/2017/texmf-dist/tex/latex/graphics-def/dvips.def
+File: dvips.def 2016/07/10 v3.1a Driver-dependent file (DPC,SPQR)
+))
+\Gin@req@height=\dimen102
+\Gin@req@width=\dimen103
+)
+(/usr/local/texlive/2017/texmf-dist/tex/latex/seminar/seminar.cls
+Document Class: seminar 2014/01/17, 1.61
+Documentclass: `seminar' v1.61 <2014/01/17> (tvz,hv)
+(/usr/local/texlive/2017/texmf-dist/tex/latex/pst-ovl/pst-ovl.sty
+Package: pst-ovl 2014/01/02 v0.01 LaTeX wrapper for `pst-ovl' (HV)
+File: pst-ovl.tex 2014/05/12 v0.06 overlay macros `pst-ovl' (HV)
+
+(/usr/local/texlive/2017/texmf-dist/tex/generic/pst-ovl/pst-ovl.tex
+(/usr/local/texlive/2017/texmf-dist/tex/generic/pstricks/pstricks.tex
+(/usr/local/texlive/2017/texmf-dist/tex/generic/xkeyval/pst-xkey.tex
+File: pst-xkey.tex 2005/11/25 v1.6 PSTricks specialization of xkeyval (HA)
+
+(/usr/local/texlive/2017/texmf-dist/tex/latex/xkeyval/xkeyval.sty
+Package: xkeyval 2014/12/03 v2.7a package option processing (HA)
+
+(/usr/local/texlive/2017/texmf-dist/tex/generic/xkeyval/xkeyval.tex
+(/usr/local/texlive/2017/texmf-dist/tex/generic/xkeyval/xkvutils.tex
+\XKV@toks=\toks15
+\XKV@tempa@toks=\toks16
+)
+\XKV@depth=\count79
+File: xkeyval.tex 2014/12/03 v2.7a key=value parser (HA)
+)))
+(/usr/local/texlive/2017/texmf-dist/tex/generic/pstricks/pst-fp.tex
+`pst-fp' v0.05, 2010/01/17 (hv)
+\pstFP@xs=\count80
+\pstFP@xia=\count81
+\pstFP@xib=\count82
+\pstFP@xfa=\count83
+\pstFP@xfb=\count84
+\pstFP@rega=\count85
+\pstFP@regb=\count86
+\pstFP@regs=\count87
+\pstFP@times=\count88
+)
+(/usr/local/texlive/2017/texmf-dist/tex/generic/pgf/utilities/pgfutil-common.te
+x
+\pgfutil@everybye=\toks17
+\pgfutil@tempdima=\dimen104
+\pgfutil@tempdimb=\dimen105
+
+(/usr/local/texlive/2017/texmf-dist/tex/generic/pgf/utilities/pgfutil-common-li
+sts.tex))
+(/usr/local/texlive/2017/texmf-dist/tex/generic/pgf/utilities/pgfkeys.code.tex
+\pgfkeys@pathtoks=\toks18
+\pgfkeys@temptoks=\toks19
+
+(/usr/local/texlive/2017/texmf-dist/tex/generic/pgf/utilities/pgfkeysfiltered.c
+ode.tex
+\pgfkeys@tmptoks=\toks20
+))
+(/usr/local/texlive/2017/texmf-dist/tex/generic/pgf/utilities/pgffor.code.tex
+(/usr/local/texlive/2017/texmf-dist/tex/generic/pgf/math/pgfmath.code.tex
+(/usr/local/texlive/2017/texmf-dist/tex/generic/pgf/math/pgfmathcalc.code.tex
+(/usr/local/texlive/2017/texmf-dist/tex/generic/pgf/math/pgfmathutil.code.tex
+Missing character: There is no 0 in font nullfont!
+Missing character: There is no . in font nullfont!
+Missing character: There is no 0 in font nullfont!
+Missing character: There is no p in font nullfont!
+Missing character: There is no t in font nullfont!
+\pgf@x=\dimen106
+Missing character: There is no 0 in font nullfont!
+Missing character: There is no . in font nullfont!
+Missing character: There is no 0 in font nullfont!
+Missing character: There is no p in font nullfont!
+Missing character: There is no t in font nullfont!
+\pgf@xa=\dimen107
+Missing character: There is no 0 in font nullfont!
+Missing character: There is no . in font nullfont!
+Missing character: There is no 0 in font nullfont!
+Missing character: There is no p in font nullfont!
+Missing character: There is no t in font nullfont!
+\pgf@xb=\dimen108
+Missing character: There is no 0 in font nullfont!
+Missing character: There is no . in font nullfont!
+Missing character: There is no 0 in font nullfont!
+Missing character: There is no p in font nullfont!
+Missing character: There is no t in font nullfont!
+\pgf@xc=\dimen109
+Missing character: There is no 0 in font nullfont!
+Missing character: There is no . in font nullfont!
+Missing character: There is no 0 in font nullfont!
+Missing character: There is no p in font nullfont!
+Missing character: There is no t in font nullfont!
+\pgf@y=\dimen110
+Missing character: There is no 0 in font nullfont!
+Missing character: There is no . in font nullfont!
+Missing character: There is no 0 in font nullfont!
+Missing character: There is no p in font nullfont!
+Missing character: There is no t in font nullfont!
+\pgf@ya=\dimen111
+Missing character: There is no 0 in font nullfont!
+Missing character: There is no . in font nullfont!
+Missing character: There is no 0 in font nullfont!
+Missing character: There is no p in font nullfont!
+Missing character: There is no t in font nullfont!
+\pgf@yb=\dimen112
+Missing character: There is no 0 in font nullfont!
+Missing character: There is no . in font nullfont!
+Missing character: There is no 0 in font nullfont!
+Missing character: There is no p in font nullfont!
+Missing character: There is no t in font nullfont!
+\pgf@yc=\dimen113
+Missing character: There is no 0 in font nullfont!
+Missing character: There is no . in font nullfont!
+Missing character: There is no 0 in font nullfont!
+Missing character: There is no p in font nullfont!
+Missing character: There is no t in font nullfont!
+\c@pgf@counta=\count89
+Missing character: There is no 0 in font nullfont!
+Missing character: There is no . in font nullfont!
+Missing character: There is no 0 in font nullfont!
+Missing character: There is no p in font nullfont!
+Missing character: There is no t in font nullfont!
+\c@pgf@countb=\count90
+Missing character: There is no 0 in font nullfont!
+Missing character: There is no . in font nullfont!
+Missing character: There is no 0 in font nullfont!
+Missing character: There is no p in font nullfont!
+Missing character: There is no t in font nullfont!
+\c@pgf@countc=\count91
+Missing character: There is no 0 in font nullfont!
+Missing character: There is no . in font nullfont!
+Missing character: There is no 0 in font nullfont!
+Missing character: There is no p in font nullfont!
+Missing character: There is no t in font nullfont!
+\c@pgf@countd=\count92
+Missing character: There is no 0 in font nullfont!
+Missing character: There is no . in font nullfont!
+Missing character: There is no 0 in font nullfont!
+Missing character: There is no p in font nullfont!
+Missing character: There is no t in font nullfont!
+\pgfutil@tempcnta=\count93
+Missing character: There is no 0 in font nullfont!
+Missing character: There is no . in font nullfont!
+Missing character: There is no 0 in font nullfont!
+Missing character: There is no p in font nullfont!
+Missing character: There is no t in font nullfont!
+\pgfutil@tempcntb=\count94
+)
+(/usr/local/texlive/2017/texmf-dist/tex/generic/pgf/math/pgfmathparser.code.tex
+\pgfmath@dimen=\dimen114
+\pgfmath@count=\count95
+\pgfmath@box=\box26
+\pgfmath@toks=\toks21
+\pgfmath@stack@operand=\toks22
+\pgfmath@stack@operation=\toks23
+)
+(/usr/local/texlive/2017/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.code.
+tex
+(/usr/local/texlive/2017/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.basic
+.code.tex)
+(/usr/local/texlive/2017/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.trigo
+nometric.code.tex)
+(/usr/local/texlive/2017/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.rando
+m.code.tex)
+(/usr/local/texlive/2017/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.compa
+rison.code.tex)
+(/usr/local/texlive/2017/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.base.
+code.tex)
+(/usr/local/texlive/2017/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.round
+.code.tex)
+(/usr/local/texlive/2017/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.misc.
+code.tex)
+(/usr/local/texlive/2017/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.integ
+erarithmetics.code.tex)))
+(/usr/local/texlive/2017/texmf-dist/tex/generic/pgf/math/pgfmathfloat.code.tex
+\c@pgfmathroundto@lastzeros=\count96
+))
+\pgffor@iter=\dimen115
+\pgffor@skip=\dimen116
+\pgffor@stack=\toks24
+\pgffor@toks=\toks25
+)
+\psLoopIndex=\count97
+
+`PSTricks' v2.73  <2017/05/18> (tvz)
+\pst@dima=\dimen117
+\pst@dimb=\dimen118
+\pst@dimc=\dimen119
+\pst@dimd=\dimen120
+\pst@dimg=\dimen121
+\pst@dimh=\dimen122
+\pst@dimm=\dimen123
+\pst@dimn=\dimen124
+\pst@dimo=\dimen125
+\pst@dimp=\dimen126
+\pst@hbox=\box27
+\pst@ibox=\box28
+\pst@boxg=\box29
+\pst@cnta=\count98
+\pst@cntb=\count99
+\pst@cntc=\count100
+\pst@cntd=\count101
+\pst@cntg=\count102
+\pst@cnth=\count103
+\pst@cntm=\count104
+\pst@cntn=\count105
+\pst@cnto=\count106
+\pst@cntp=\count107
+\@zero=\count108
+\pst@toks=\toks26
+(/usr/local/texlive/2017/texmf-dist/tex/generic/pstricks/pstricks.con)
+\psunit=\dimen127
+\psxunit=\dimen128
+\psyunit=\dimen129
+\pst@C@@rType=\count109
+\pslinewidth=\dimen130
+\psk@startLW=\dimen131
+\psk@endLW=\dimen132
+\pst@customdefs=\toks27
+\pslinearc=\dimen133
+\pst@symbolStep=\dimen134
+\pst@symbolWidth=\dimen135
+\pst@symbolLinewidth=\dimen136
+\everypsbox=\toks28
+\psframesep=\dimen137
+\pslabelsep=\dimen138
+\sh@wgridXunit=\dimen139
+\sh@wgridYunit=\dimen140
+\pst@shift=\dimen141
+)
+`pst-ovl' v0.07, 2016/05/03 (tvz,hv)
+\thepsoverlaybox=\box30
+))
+\slidewidth=\dimen142
+\slideheight=\dimen143
+\footheight=\dimen144
+
+(/usr/local/texlive/2017/texmf-dist/tex/latex/base/article.cls
+Document Class: article 2014/09/29 v1.4h Standard LaTeX document class
+(/usr/local/texlive/2017/texmf-dist/tex/latex/base/leqno.clo
+File: leqno.clo 2016/12/29 v1.2a Standard LaTeX option (left equation numbers)
+)
+(/usr/local/texlive/2017/texmf-dist/tex/latex/base/size10.clo
+File: size10.clo 2014/09/29 v1.4h Standard LaTeX file (size option)
+)
+\c@part=\count110
+\c@section=\count111
+\c@subsection=\count112
+\c@subsubsection=\count113
+\c@paragraph=\count114
+\c@subparagraph=\count115
+\c@figure=\count116
+\c@table=\count117
+\abovecaptionskip=\skip41
+\belowcaptionskip=\skip42
+\bibindent=\dimen145
+)
+(/usr/local/texlive/2017/texmf-dist/tex/latex/seminar/sem-page.sty)
+\before@document=\toks29
+\after@document=\toks30
+\before@enddocument=\toks31
+\c@slide=\count118
+\slide@count=\count119
+\@slidebox=\box31
+\not@slidebox=\box32
+\slide@hook=\toks32
+\after@slide=\toks33
+\slide@footins=\insert199
+\slide@listdepth=\count120
+\saved@specials=\box33
+\before@newslide=\toks34
+\after@slidepage=\toks35
+\slidesep=\skip43
+\c@note=\count121
+\slideframewidth=\dimen146
+\slideframesep=\dimen147
+\semin=\dimen148
+\semcm=\dimen149
+)
+(/usr/local/texlive/2017/texmf-dist/tex/latex/seminar/semcolor.sty
+Style Option: `semcolor' for doc style `seminar' 1.02 <2014/01/17> (tvz)
+File: semcolor.sty 2014/01/17 v1.02 (tvz)
+) (/usr/local/texlive/2017/texmf-dist/tex/latex/seminar/semlayer.sty
+\@@slidebox=\box34
+\c@overlay=\count122
+)
+(/usr/local/texlive/2017/texmf-dist/tex/latex/seminar/seminar.bug)
+(/usr/local/texlive/2017/texmf-dist/tex/latex/seminar/seminar.bg2
+seminar.bg2: various corrections for the Seminar document class
+added since seminar.bug and few add-ons for overlays
+(Version 2.3 of <2014/05/12> (DG, hv))
+\Seminar@SlideBoxBackground=\box35
+) (/usr/local/texlive/2017/texmf-dist/tex/latex/hyperref/hyperref.sty
+Package: hyperref 2017/03/14 v6.85a Hypertext links for LaTeX
+
+(/usr/local/texlive/2017/texmf-dist/tex/generic/oberdiek/hobsub-hyperref.sty
+Package: hobsub-hyperref 2016/05/16 v1.14 Bundle oberdiek, subset hyperref (HO)
+
+
+(/usr/local/texlive/2017/texmf-dist/tex/generic/oberdiek/hobsub-generic.sty
+Package: hobsub-generic 2016/05/16 v1.14 Bundle oberdiek, subset generic (HO)
+Package: hobsub 2016/05/16 v1.14 Construct package bundles (HO)
+Package: infwarerr 2016/05/16 v1.4 Providing info/warning/error messages (HO)
+Package: ltxcmds 2016/05/16 v1.23 LaTeX kernel commands for general use (HO)
+Package: ifluatex 2016/05/16 v1.4 Provides the ifluatex switch (HO)
+Package ifluatex Info: LuaTeX not detected.
+Package: ifvtex 2016/05/16 v1.6 Detect VTeX and its facilities (HO)
+Package ifvtex Info: VTeX not detected.
+Package: intcalc 2016/05/16 v1.2 Expandable calculations with integers (HO)
+Package: ifpdf 2017/03/15 v3.2 Provides the ifpdf switch
+Package: etexcmds 2016/05/16 v1.6 Avoid name clashes with e-TeX commands (HO)
+Package etexcmds Info: Could not find \expanded.
+(etexcmds)             That can mean that you are not using pdfTeX 1.50 or
+(etexcmds)             that some package has redefined \expanded.
+(etexcmds)             In the latter case, load this package earlier.
+Package: kvsetkeys 2016/05/16 v1.17 Key value parser (HO)
+Package: kvdefinekeys 2016/05/16 v1.4 Define keys (HO)
+Package: pdftexcmds 2017/03/19 v0.25 Utility functions of pdfTeX for LuaTeX (HO
+)
+Package pdftexcmds Info: LuaTeX not detected.
+Package pdftexcmds Info: \pdf@primitive is available.
+Package pdftexcmds Info: \pdf@ifprimitive is available.
+Package pdftexcmds Info: \pdfdraftmode is ignored in DVI mode.
+Package: pdfescape 2016/05/16 v1.14 Implements pdfTeX's escape features (HO)
+Package: bigintcalc 2016/05/16 v1.4 Expandable calculations on big integers (HO
+)
+Package: bitset 2016/05/16 v1.2 Handle bit-vector datatype (HO)
+Package: uniquecounter 2016/05/16 v1.3 Provide unlimited unique counter (HO)
+)
+Package hobsub Info: Skipping package `hobsub' (already loaded).
+Package: letltxmacro 2016/05/16 v1.5 Let assignment for LaTeX macros (HO)
+Package: hopatch 2016/05/16 v1.3 Wrapper for package hooks (HO)
+Package: xcolor-patch 2016/05/16 xcolor patch
+Package: atveryend 2016/05/16 v1.9 Hooks at the very end of document (HO)
+Package: atbegshi 2016/06/09 v1.18 At begin shipout hook (HO)
+Package: refcount 2016/05/16 v3.5 Data extraction from label references (HO)
+Package: hycolor 2016/05/16 v1.8 Color options for hyperref/bookmark (HO)
+)
+(/usr/local/texlive/2017/texmf-dist/tex/generic/ifxetex/ifxetex.sty
+Package: ifxetex 2010/09/12 v0.6 Provides ifxetex conditional
+)
+(/usr/local/texlive/2017/texmf-dist/tex/latex/oberdiek/auxhook.sty
+Package: auxhook 2016/05/16 v1.4 Hooks for auxiliary files (HO)
+)
+(/usr/local/texlive/2017/texmf-dist/tex/latex/oberdiek/kvoptions.sty
+Package: kvoptions 2016/05/16 v3.12 Key value format for package options (HO)
+)
+\@linkdim=\dimen150
+\Hy@linkcounter=\count123
+\Hy@pagecounter=\count124
+
+(/usr/local/texlive/2017/texmf-dist/tex/latex/hyperref/pd1enc.def
+File: pd1enc.def 2017/03/14 v6.85a Hyperref: PDFDocEncoding definition (HO)
+)
+\Hy@SavedSpaceFactor=\count125
+
+(/usr/local/texlive/2017/texmf-dist/tex/latex/latexconfig/hyperref.cfg
+File: hyperref.cfg 2002/06/06 v1.2 hyperref configuration of TeXLive
+)
+Package hyperref Info: Option `bookmarks' set `true' on input line 4374.
+
+
+Package hyperref Warning: Option `a4paper' is no longer used.
+
+Package hyperref Info: Option `pdffitwindow' set `true' on input line 4374.
+Package hyperref Info: Option `pdfcenterwindow' set `true' on input line 4374.
+Package hyperref Info: Hyper figures OFF on input line 4498.
+Package hyperref Info: Link nesting OFF on input line 4503.
+Package hyperref Info: Hyper index ON on input line 4506.
+Package hyperref Info: Plain pages OFF on input line 4513.
+Package hyperref Info: Backreferencing OFF on input line 4518.
+Package hyperref Info: Implicit mode ON; LaTeX internals redefined.
+Package hyperref Info: Bookmarks ON on input line 4751.
+\c@Hy@tempcnt=\count126
+(/usr/local/texlive/2017/texmf-dist/tex/latex/url/url.sty
+\Urlmuskip=\muskip10
+Package: url 2013/09/16  ver 3.4  Verb mode for urls, etc.
+)
+LaTeX Info: Redefining \url on input line 5104.
+\XeTeXLinkMargin=\dimen151
+\Fld@menulength=\count127
+\Field@Width=\dimen152
+\Fld@charsize=\dimen153
+Package hyperref Info: Hyper figures OFF on input line 6358.
+Package hyperref Info: Link nesting OFF on input line 6363.
+Package hyperref Info: Hyper index ON on input line 6366.
+Package hyperref Info: backreferencing OFF on input line 6373.
+Package hyperref Info: Link coloring OFF on input line 6378.
+Package hyperref Info: Link coloring with OCG OFF on input line 6383.
+Package hyperref Info: PDF/A mode OFF on input line 6388.
+LaTeX Info: Redefining \ref on input line 6428.
+LaTeX Info: Redefining \pageref on input line 6432.
+\Hy@abspage=\count128
+\c@Item=\count129
+\c@Hfootnote=\count130
+)
+
+Package hyperref Message: Driver: hdvips.
+
+(/usr/local/texlive/2017/texmf-dist/tex/latex/hyperref/hdvips.def
+File: hdvips.def 2017/03/14 v6.85a Hyperref driver for dvips
+
+(/usr/local/texlive/2017/texmf-dist/tex/latex/hyperref/pdfmark.def
+File: pdfmark.def 2017/03/14 v6.85a Hyperref definitions for pdfmark specials
+\pdf@docset=\toks36
+\pdf@box=\box36
+\pdf@toks=\toks37
+\pdf@defaulttoks=\toks38
+\HyField@AnnotCount=\count131
+\Fld@listcount=\count132
+\c@bookmark@seq@number=\count133
+
+(/usr/local/texlive/2017/texmf-dist/tex/latex/oberdiek/rerunfilecheck.sty
+Package: rerunfilecheck 2016/05/16 v1.8 Rerun checks for auxiliary files (HO)
+Package uniquecounter Info: New unique counter `rerunfilecheck' on input line 2
+82.
+)
+\Hy@SectionHShift=\skip44
+))
+\theoverlays=\box37
+\c@overlaysCount=\count134
+\c@limitOverlays=\count135
+\@tempoLimit=\count136
+\slideWidth=\skip45
+\c@trueSlideCounter=\count137
+
+(/usr/local/texlive/2017/texmf-dist/tex/latex/prosper/PPRdefault.sty
+Package: PPRdefault 2000/11/30
+
+`default' style for Prosper ---
+CVSId: $Id: PPRdefault.sty,v 1.3 2001/10/24 15:11:25 exupery Exp $
+ 
+(/usr/local/texlive/2017/texmf-dist/tex/latex/amsfonts/amssymb.sty
+Package: amssymb 2013/01/14 v3.01 AMS font symbols
+
+(/usr/local/texlive/2017/texmf-dist/tex/latex/amsfonts/amsfonts.sty
+Package: amsfonts 2013/01/14 v3.01 Basic AMSFonts support
+\@emptytoks=\toks39
+\symAMSa=\mathgroup4
+\symAMSb=\mathgroup5
+LaTeX Font Info:    Overwriting math alphabet `\mathfrak' in version `bold'
+(Font)                  U/euf/m/n --> U/euf/b/n on input line 106.
+))
+(/usr/local/texlive/2017/texmf-dist/tex/latex/seminar/semhelv.sty
+Style Option: `semhelv' for the `seminar' doc style 1.4 <2000/05/08> (tvz)
+Modified by Stefan (see source for details)
+LaTeX Font Info:    Font shape `OT1/helvetica/m/n' will be
+(Font)              scaled to size 8.20007pt on input line 186.
+))
+\c@item@step=\count138
+\c@overlay@page=\count139
+\c@nbAffected=\count140
+\c@savecountAffected=\count141
+) (/usr/local/texlive/2017/texmf-dist/tex/latex/base/inputenc.sty
+Package: inputenc 2015/03/17 v1.2c Input encoding file
+\inpenc@prehook=\toks40
+\inpenc@posthook=\toks41
+
+(/usr/local/texlive/2017/texmf-dist/tex/latex/ucs/utf8x.def
+File: utf8x.def 2004/10/17 UCS: Input encoding UTF-8
+))
+(/usr/local/texlive/2017/texmf-dist/tex/latex/ucs/ucs.sty
+Package: ucs 2013/05/11 v2.2 UCS: Unicode input support
+
+(/usr/local/texlive/2017/texmf-dist/tex/latex/ucs/data/uni-global.def
+File: uni-global.def 2013/05/13 UCS: Unicode global data
+)
+\uc@secondtry=\count142
+\uc@combtoks=\toks42
+\uc@combtoksb=\toks43
+\uc@temptokena=\toks44
+)
+(/usr/local/texlive/2017/texmf-dist/tex/generic/babel/babel.sty
+Package: babel 2017/05/19 3.10 The Babel package
+
+(/usr/local/texlive/2017/texmf-dist/tex/generic/babel-italian/italian.ldf
+Language: italian 2015/03/26 v1.3n Italian support from the babel system
+
+(/usr/local/texlive/2017/texmf-dist/tex/generic/babel/babel.def
+File: babel.def 2017/05/19 3.10 Babel common definitions
+\babel@savecnt=\count143
+\U@D=\dimen154
+)
+\it@lettering=\count144
+\it@doublequoteactive=\count145
+\it@ISOcompliance=\count146
+))
+(/usr/local/texlive/2017/texmf-dist/tex/latex/etoolbox/etoolbox.sty
+Package: etoolbox 2017/01/02 v2.4 e-TeX tools for LaTeX (JAW)
+\etb@tempcnta=\count147
+)
+(/usr/local/texlive/2017/texmf-dist/tex/latex/HA-prosper/HA-prosper.sty
+Package: HA-prosper 2004/08/20 v4.21 Patch for prosper
+
+(c) 2003-2004 Hendri Adriaens, Tilburg, the Netherlands
+ 
+(/usr/local/texlive/2017/texmf-dist/tex/generic/xcomment/xcomment.sty
+Package: xcomment 2010/05/13 package wrapper for xcomment.tex (hv)
+
+(/usr/local/texlive/2017/texmf-dist/tex/generic/xcomment/xcomment.tex
+Style-Option: `xcomment' v1.3 <10/05/14> (tvz) 
+\tokout=\write3
+\tokin=\read1
+)
+File: xcomment.tex 10/05/14 v1.3 `xcomment' (tvz)
+) (/usr/local/texlive/2017/texmf-dist/tex/latex/tools/verbatim.sty
+Package: verbatim 2014/10/28 v1.5q LaTeX2e package for verbatim enhancements
+\every@verbatim=\toks45
+\verbatim@line=\toks46
+\verbatim@in@stream=\read2
+)
+\HAP@tba=\box38
+\HAP@tbb=\box39
+\HAP@tla=\skip46
+\HAP@tlb=\skip47
+\HAP@tlc=\skip48
+\HAP@tld=\skip49
+\c@HAP@tca=\count148
+\c@HAP@notes@slide=\count149
+\c@HAP@notes@true=\count150
+\c@HAP@notes@temp=\count151
+\c@HAP@temp@sc=\count152
+
+(./corpuslinguistics.bm) (./corpuslinguistics.bm)
+\HAP@bmout=\write4
+\openout4 = `corpuslinguistics.bm'.
+
+\c@HAP@sc@toc=\count153
+\c@HAP@sc@pres=\count154
+\c@HAP@sc@slides=\count155
+\c@HAP@listdepth=\count156
+\HAP@lcolwidth=\skip50
+\HAP@rcolwidth=\skip51
+\HAP@frsep=\skip52
+\HAP@colsep=\skip53
+\HAP@topsep=\skip54
+\HAP@bottomsep=\skip55
+\HAP@indent=\skip56
+\c@HAP@onslide@count=\count157
+\c@HAP@onslide@end=\count158
+\HAP@toks@=\toks47
+\c@HAP@oldc@figure=\count159
+\c@HAP@oldc@equation=\count160
+\c@HAP@oldc@table=\count161
+
+(/usr/local/texlive/2017/texmf-dist/tex/latex/HA-prosper/HA-prosper.cfg)
+(/usr/local/texlive/2017/texmf-dist/tex/latex/HA-prosper/Styles/Capsules/HAPcap
+sules.sty
+Package: HAPcapsules 2004/06/10
+
+capsules style for HA-prosper
+(c) 2004 Mathieu Goutelle, UREC CNRS, France
+ 
+(/usr/local/texlive/2017/texmf-dist/tex/latex/psnfss/palatino.sty
+Package: palatino 2005/04/12 PSNFSS-v9.2a (SPQR) 
+)
+(/usr/local/texlive/2017/texmf-dist/tex/latex/psnfss/mathpazo.sty
+Package: mathpazo 2005/04/12 PSNFSS-v9.2a Palatino w/ Pazo Math (D.Puga, WaS) 
+\symupright=\mathgroup6
+)))
+(/usr/local/texlive/2017/texmf-dist/tex/latex/graphics/lscape.sty
+Package: lscape 2000/10/22 v3.01 Landscape Pages (DPC)
+)
+(/usr/local/texlive/2017/texmf-dist/tex/latex/natbib/natbib.sty
+Package: natbib 2010/09/13 8.31b (PWD, AO)
+\bibhang=\skip57
+\bibsep=\skip58
+LaTeX Info: Redefining \cite on input line 694.
+\c@NAT@ctr=\count162
+)
+(./corpuslinguistics.aux)
+\openout1 = `corpuslinguistics.aux'.
+
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 12.
+LaTeX Font Info:    ... okay on input line 12.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 12.
+LaTeX Font Info:    ... okay on input line 12.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 12.
+LaTeX Font Info:    ... okay on input line 12.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 12.
+LaTeX Font Info:    ... okay on input line 12.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 12.
+LaTeX Font Info:    ... okay on input line 12.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 12.
+LaTeX Font Info:    ... okay on input line 12.
+LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 12.
+LaTeX Font Info:    ... okay on input line 12.
+LaTeX Font Info:    Try loading font information for OT1+ppl on input line 12.
+
+(/usr/local/texlive/2017/texmf-dist/tex/latex/psnfss/ot1ppl.fd
+File: ot1ppl.fd 2001/06/04 font definitions for OT1/ppl.
+)
+\AtBeginShipoutBox=\box40
+Package hyperref Info: Link coloring OFF on input line 12.
+
+(/usr/local/texlive/2017/texmf-dist/tex/latex/hyperref/nameref.sty
+Package: nameref 2016/05/21 v2.44 Cross-referencing by name of section
+
+(/usr/local/texlive/2017/texmf-dist/tex/generic/oberdiek/gettitlestring.sty
+Package: gettitlestring 2016/05/16 v1.5 Cleanup title references (HO)
+)
+\c@section@level=\count163
+)
+LaTeX Info: Redefining \ref on input line 12.
+LaTeX Info: Redefining \pageref on input line 12.
+LaTeX Info: Redefining \nameref on input line 12.
+
+(./corpuslinguistics.out) (./corpuslinguistics.out)
+\@outlinefile=\write5
+\openout5 = `corpuslinguistics.out'.
+
+
+(/usr/local/texlive/2017/texmf-dist/tex/latex/ucs/ucsencs.def
+File: ucsencs.def 2011/01/21 Fixes to fontencodings LGR, T3
+)
+LaTeX Info: Redefining \it@ocap on input line 12.
+LaTeX Info: Redefining \it@ccap on input line 12.
+
+
+File italian.ldf warning: 
+italian.ldf    With OT1 encoding guillemets are poorly faked
+italian.ldf    Use T1 encoding
+italian.ldf    or specify a font with command \CaporaliFrom
+italian.ldf    See the documentation concerning the babel-italian typesetting 
+italian.ldf    on input line 12.
+
+\big@size=\dimen155
+LaTeX Font Info:    Try loading font information for T1+phv on input line 14.
+(/usr/local/texlive/2017/texmf-dist/tex/latex/psnfss/t1phv.fd
+File: t1phv.fd 2001/06/04 scalable font definitions for T1/phv.
+)
+LaTeX Font Info:    Try loading font information for OML+zplm on input line 14.
+
+
+(/usr/local/texlive/2017/texmf-dist/tex/latex/psnfss/omlzplm.fd
+File: omlzplm.fd 2002/09/08 Fontinst v1.914 font definitions for OML/zplm.
+)
+LaTeX Font Info:    Try loading font information for OMS+zplm on input line 14.
+
+
+(/usr/local/texlive/2017/texmf-dist/tex/latex/psnfss/omszplm.fd
+File: omszplm.fd 2002/09/08 Fontinst v1.914 font definitions for OMS/zplm.
+)
+LaTeX Font Info:    Try loading font information for OMX+zplm on input line 14.
+
+
+(/usr/local/texlive/2017/texmf-dist/tex/latex/psnfss/omxzplm.fd
+File: omxzplm.fd 2002/09/08 Fontinst v1.914 font definitions for OMX/zplm.
+)
+LaTeX Font Info:    Font shape `U/msa/m/n' will be
+(Font)              scaled to size 10.42007pt on input line 14.
+LaTeX Font Info:    Font shape `U/msa/m/n' will be
+(Font)              scaled to size 7.91925pt on input line 14.
+LaTeX Font Info:    Font shape `U/msa/m/n' will be
+(Font)              scaled to size 6.25204pt on input line 14.
+LaTeX Font Info:    Font shape `U/msb/m/n' will be
+(Font)              scaled to size 10.42007pt on input line 14.
+LaTeX Font Info:    Font shape `U/msb/m/n' will be
+(Font)              scaled to size 7.91925pt on input line 14.
+LaTeX Font Info:    Font shape `U/msb/m/n' will be
+(Font)              scaled to size 6.25204pt on input line 14.
+LaTeX Font Info:    Try loading font information for OT1+zplm on input line 14.
+
+
+(/usr/local/texlive/2017/texmf-dist/tex/latex/psnfss/ot1zplm.fd
+File: ot1zplm.fd 2002/09/08 Fontinst v1.914 font definitions for OT1/zplm.
+)
+(/usr/local/texlive/2017/texmf-dist/tex/latex/ucs/data/uni-0.def
+File: uni-0.def 2013/05/13 UCS: Unicode data U+0000..U+00FF
+) [1
+
+
+] [2
+
+]
+[3
+
+]
+LaTeX Font Info:    Font shape `U/msa/m/n' will be
+(Font)              scaled to size 7.29405pt on input line 30.
+LaTeX Font Info:    Font shape `U/msa/m/n' will be
+(Font)              scaled to size 5.21004pt on input line 30.
+LaTeX Font Info:    Font shape `U/msb/m/n' will be
+(Font)              scaled to size 7.29405pt on input line 30.
+LaTeX Font Info:    Font shape `U/msb/m/n' will be
+(Font)              scaled to size 5.21004pt on input line 30.
+ [4
+
+] [5
+
+] [6
+
+] [7
+
+]
+File: paludato.eps Graphic file (type eps)
+ <paludato.eps>
+Overfull \hbox (34.71239pt too wide) in paragraph at lines 86--87
+ [] 
+ []
+
+[8
+
+] [9
+
+] [9
+
+] [9
+
+] [9
+
+] [9
+
+] [9
+
+]
+File: autodipiazza.eps Graphic file (type eps)
+ <autodipiazza.eps>
+Overfull \hbox (45.38554pt too wide) in paragraph at lines 122--122
+[] 
+ []
+
+[10
+
+]
+File: autodipiazza.eps Graphic file (type eps)
+ <autodipiazza.eps>
+Overfull \hbox (45.38554pt too wide) in paragraph at lines 122--122
+[] 
+ []
+
+[10
+
+]
+File: autodipiazza.eps Graphic file (type eps)
+ <autodipiazza.eps>
+Overfull \hbox (45.38554pt too wide) in paragraph at lines 122--122
+[] 
+ []
+
+[10
+
+]
+File: autodipiazza.eps Graphic file (type eps)
+ <autodipiazza.eps>
+Overfull \hbox (45.38554pt too wide) in paragraph at lines 122--122
+[] 
+ []
+
+[10
+
+]
+File: autodipiazza.eps Graphic file (type eps)
+ <autodipiazza.eps>
+Overfull \hbox (45.38554pt too wide) in paragraph at lines 122--122
+[] 
+ []
+
+[10
+
+] [11
+
+] [12
+
+] [13
+
+] [13
+
+] [13
+
+] [13
+
+] [13
+
+] [14
+
+] [15
+
+] [16
+
+] [17
+
+] [18
+
+] [19
+
+]
+(./ame.txt) [19] [20
+
+] (./corpuslinguistics.bbl
+LaTeX Font Info:    Font shape `OT1/ppl/bx/n' in size <14.4> not available
+(Font)              Font shape `OT1/ppl/b/n' tried instead on input line 1.
+LaTeX Font Info:    Font shape `OT1/ppl/bx/n' in size <10> not available
+(Font)              Font shape `OT1/ppl/b/n' tried instead on input line 24.
+ [20]) [20]
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 249.
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 249.
+
+(./corpuslinguistics.aux)
+Package atveryend Info: Empty hook `AtVeryEndDocument' on input line 249.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 249.
+Package rerunfilecheck Info: File `corpuslinguistics.out' has not changed.
+(rerunfilecheck)             Checksum: D41D8CD98F00B204E9800998ECF8427E;0.
+ ) 
+Here is how much of TeX's memory you used:
+ 14654 strings out of 492996
+ 241673 string characters out of 6132729
+ 350137 words of memory out of 5000000
+ 17979 multiletter control sequences out of 15000+600000
+ 28378 words of font info for 62 fonts, out of 8000000 for 9000
+ 1141 hyphenation exceptions out of 8191
+ 48i,9n,51p,839b,1198s stack positions out of 5000i,500n,10000p,200000b,80000s
+
+Output written on corpuslinguistics.dvi (36 pages, 143912 bytes).
